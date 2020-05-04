@@ -1,0 +1,6 @@
+DOSBox version 0.74-2
+Copyright 2002-2018 DOSBox Team, published under GNU GPL.
+---
+CONFIG:Loading primary settings from config file C:\TPWDB\Main\dosbox.conf
+MIDI:Opened device:win32
+MAPPER: Loading mapper settings from C:\TPWDB\Main\mapper.map
